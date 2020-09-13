@@ -25,7 +25,9 @@
 var storage = {
     "networking": "netPlus.html",
     "devices": "aPlus1.html",
-    "mobile": "aPlus1.html"
+    "mobile": "aPlus1.html",
+    "microsoft": "aPlus2.html"
+
 }
 
 function search(event){
